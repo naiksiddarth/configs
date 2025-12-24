@@ -14,3 +14,4 @@ services:
 networks:
   default:
     name: n8n_network
+
